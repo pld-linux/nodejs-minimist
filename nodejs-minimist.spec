@@ -6,7 +6,7 @@
 Summary:	Parse argument options in Node.js
 Name:		nodejs-%{pkg}
 Version:	0.0.8
-Release:	0.1
+Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	https://registry.npmjs.org/minimist/-/minimist-%{version}.tgz
